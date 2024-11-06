@@ -4,10 +4,10 @@ I'm **THGisOP**, a curious learner who loves exploring new things every day. I e
 
 ## About Me
 - 🎮 **Hobbies**: Programming, coding, and gaming.
-- 💻 **Favorite Languages**: JavaScript, Java, Python.
+- 💻 **Favorite Languages**: JavaScript, TypeScript, Java, Python.
 - 🛠️ **Skills**: Good at web development with Next.js and React, and can create different types of Minecraft servers.
 - 📚 **Currently Learning**: Java Minecraft development.
-- 🧠 **Planning to Learn**: TypeScript, Kotlin, maybe C++ or C# or C.
+- 🧠 **Planning to Learn**: Kotlin, maybe C++ or C# or C.
 
 ## Projects and Contributions
 Check out my repositories to see what I've been working on. I'm always open to new ideas and collaborations!
